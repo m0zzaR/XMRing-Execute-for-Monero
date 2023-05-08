@@ -1,0 +1,63 @@
+﻿'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Users\gomer\source\repos\XMRing Execute for Monero\x64\Debug\XMRing Execute for Monero.exe'. Symbols loaded.
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Unloaded 'C:\Windows\System32\ucrtbased.dll'
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\networkexplorer.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\edputil.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\Windows.StateRepositoryPS.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\urlmon.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\srvcli.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\netutils.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\sspicli.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\virtdisk.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\AppResolver.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\userenv.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\BCP47Langs.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreUAPCommonProxyStub.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\mpr.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\pcacli.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\sfc_os.dll'. 
+'XMRing Execute for Monero.exe' (Win32): Loaded 'C:\Windows\System32\ServicingCommon.dll'. 
+The thread 0x57d8 has exited with code 42 (0x2a).
+The thread 0x6d64 has exited with code 42 (0x2a).
+The thread 0x308c has exited with code 42 (0x2a).
+The thread 0x6f1c has exited with code 42 (0x2a).
+The thread 0x3cc8 has exited with code 42 (0x2a).
+The thread 0x56b8 has exited with code 42 (0x2a).
+The thread 0x20d8 has exited with code 42 (0x2a).
+The thread 0x2108 has exited with code 42 (0x2a).
+The thread 0x652c has exited with code 42 (0x2a).
+The program '[21776] XMRing Execute for Monero.exe' has exited with code 42 (0x2a).
